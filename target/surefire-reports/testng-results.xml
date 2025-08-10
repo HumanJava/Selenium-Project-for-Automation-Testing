@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-10T22:45:31 BST" name="Surefire suite" finished-at="2025-08-10T22:45:42 BST" duration-ms="10848">
+  <suite started-at="2025-08-11T00:30:42 BST" name="Surefire suite" finished-at="2025-08-11T00:30:50 BST" duration-ms="8132">
     <groups>
     </groups>
-    <test started-at="2025-08-10T22:45:31 BST" name="Surefire test" finished-at="2025-08-10T22:45:42 BST" duration-ms="10848">
+    <test started-at="2025-08-11T00:30:42 BST" name="Surefire test" finished-at="2025-08-11T00:30:50 BST" duration-ms="8132">
       <class name="part1.FirstSeleniumTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:part1.FirstSeleniumTest@3d121db3]" started-at="2025-08-10T22:45:31 BST" name="setUp" finished-at="2025-08-10T22:45:37 BST" duration-ms="5568" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:part1.FirstSeleniumTest@3d121db3]" started-at="2025-08-11T00:30:42 BST" name="setUp" finished-at="2025-08-11T00:30:45 BST" duration-ms="3100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testLoggin()[pri:0, instance:part1.FirstSeleniumTest@3d121db3]" started-at="2025-08-10T22:45:37 BST" name="testLoggin" finished-at="2025-08-10T22:45:42 BST" duration-ms="5260" status="PASS">
+        <test-method signature="testLoggin()[pri:0, instance:part1.FirstSeleniumTest@3d121db3]" started-at="2025-08-11T00:30:45 BST" name="testLoggin" finished-at="2025-08-11T00:30:50 BST" duration-ms="5015" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoggin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:part1.FirstSeleniumTest@3d121db3]" started-at="2025-08-10T22:45:42 BST" name="tearDown" finished-at="2025-08-10T22:45:42 BST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:part1.FirstSeleniumTest@3d121db3]" started-at="2025-08-11T00:30:50 BST" name="tearDown" finished-at="2025-08-11T00:30:50 BST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
